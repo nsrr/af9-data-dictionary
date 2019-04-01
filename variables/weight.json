@@ -1,0 +1,7 @@
+{
+  "id": "weight",
+  "display_name": "Subject weight",
+  "description": "",
+  "type": "numeric",
+  "units": "kilograms (kg)"
+}

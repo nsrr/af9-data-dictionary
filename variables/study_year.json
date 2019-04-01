@@ -1,0 +1,7 @@
+{
+  "id": "study_year",
+  "display_name": "Year of research study",
+  "description": "",
+  "type": "integer",
+  "units": ""
+}

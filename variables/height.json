@@ -1,0 +1,7 @@
+{
+  "id": "height",
+  "display_name": "Subject height",
+  "description": "",
+  "type": "numeric",
+  "units": "centimeters (cm)"
+}

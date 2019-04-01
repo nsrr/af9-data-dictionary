@@ -1,8 +1,8 @@
-slug: shhs
+slug: af9
 visit: visit
 charts:
-- chart: gender
-  title: Gender
+- chart: sexn
+  title: Sex
 webservers:
   - name: production
     url: https://sleepdata.org

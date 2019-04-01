@@ -1,0 +1,12 @@
+{
+  "id": "sexn",
+  "display_name": "Subject sex",
+  "description": "",
+  "type": "choices",
+  "domain": "sex",
+  "labels": [
+    "gender",
+    "male",
+    "female"
+  ]
+}

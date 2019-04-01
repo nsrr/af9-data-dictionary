@@ -1,0 +1,7 @@
+{
+  "id": "age",
+  "display_name": "Subject age",
+  "description": "",
+  "type": "numeric",
+  "units": "years"
+}
